@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-</p>
+</p> - Frontend
 
 <!--
 **Ochweda/Ochweda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
