@@ -15,6 +15,14 @@
   <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
 </p>
 
+I'm Curtis, an AI Full Stack Software Engineer based in Kenya.
+
+I educe, design and build whatever my imagination can concieve (or at least try to).
+
+If an idea pops into my head, chances are I'll build it and ship it. (Provided it does not defy the laws of physics...and even then..why not for the heck of it)
+
+
+
 <!--
 **Ochweda/Ochweda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
