@@ -19,7 +19,9 @@ I'm Curtis, an AI Full Stack Software Engineer based in Kenya.
 
 I educe, design and build whatever my imagination can concieve (or at least try to).
 
-If an idea pops into my head, chances are I'll build it and ship it. (Provided it does not defy the laws of physics...and even then..why not for the heck of it)
+If an idea pops into my head, chances are I'll build it and ship it. (Provided it does not defy the laws of physics...and even then..why not for the heck of it?!)
+
+> 🧠 Deep in vibe-coding mode - building my pattern-recognition editing software using python and ffmpeg. The pursuit of shipping real AI tools from Nairobi feels like a breath of fresh air.
 
 
 
