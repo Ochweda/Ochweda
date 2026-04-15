@@ -23,6 +23,18 @@ If an idea pops into my head, chances are I'll build it and ship it. (Provided i
 
 > 🧠 Deep in vibe-coding mode - building my pattern-recognition editing software using python and ffmpeg. The pursuit of shipping real AI tools from Nairobi feels like a breath of fresh air.
 
+I've got my favourite projects pinned, my favourite( for now) is the Sentiment Analysis Backend Engine.
+
+I've built over 10 public repos but privately, its probably 2.
+
+Fun facts:
+<ul>
+  <li>I have a goldfish for a pet</li>
+  <li>I love coffee</li>
+  <li>Whodunits are my favourite genre of movies</li>
+  <li>Hobbies: guitar, gaming, pool (8-ball)</li>
+</ul>
+
 
 
 <!--
