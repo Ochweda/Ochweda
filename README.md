@@ -35,6 +35,8 @@ Fun facts:
   <li>Hobbies: guitar, gaming, pool (8-ball)</li>
 </ul>
 
+Email me: [curtis.oluoch@gmail.com](curtis.oluoch@gmail.com)
+
 
 
 <!--
